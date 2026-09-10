@@ -36,7 +36,6 @@ Agricultural performance varies widely across seasons due to shifts in weather p
 * **Data Manipulation:** Pandas, NumPy
 * **Visualization:** Matplotlib, Seaborn
 * **Statistical Analysis:** SciPy
-* **Environment:** Jupyter Notebook
 
 ---
 
