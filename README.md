@@ -23,19 +23,10 @@ Agricultural performance varies widely across seasons due to shifts in weather p
 ## Methodology & Workflow
 
 1. **Data Cleaning & Feature Engineering:**
-* Handled missing values and normalized numerical data.
-* Engineered financial metrics including `Net Profit Margin`, `Cost per Hectare`, `Cost per Tonne`, and a `Ran at Loss` flag.
-
 
 2. **Exploratory Data Analysis (EDA):**
-* Aggregated yield and financial figures by season, crop type, and geographic region.
-* Visualized risk distributions, pest outbreak impacts, and water usage efficiency.
-
 
 3. **Statistical Hypothesis Testing:**
-* Executed a SciPy-powered **One-Way ANOVA test** (`scipy.stats.f_oneway`) to statistically confirm seasonal yield and profitability variance.
-
-
 
 ---
 
